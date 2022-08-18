@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrianrsilva
-- 👀 I’m interested in tecnologu
+- 👀 I’m interested in tecnology
 - 🌱 I’m currently learning PHP, C#(API).
 - 💞️ I’m looking to collaborate on AW
 - 📫 How to reach me adrianrsilva@outlook.com
