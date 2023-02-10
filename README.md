@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrianrsilva
 - 👀 I’m interested in tecnology
-- 🌱 I’m currently learning PHP, C#(API).
+- 🌱 I’m currently learning PHP, C#.
 - 📫 How to reach me adrianrsilva@outlook.com
 
 <!---
